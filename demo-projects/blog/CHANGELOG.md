@@ -1,5 +1,24 @@
 # keystone_demo_blog
 
+## 5.0.1
+
+### Patch Changes
+
+- [`8226eb47`](https://github.com/keystonejs/keystone/commit/8226eb4709ea8ad5773c900eaaa96068d3cb6bad) [#1819](https://github.com/keystonejs/keystone/pull/1819) Thanks [@w01fgang](https://github.com/w01fgang)! - Upgrade @emotion/core & @emotion/styled
+
+* [`5595e4c4`](https://github.com/keystonejs/keystone/commit/5595e4c45c618fa7e13a3d91e3ea3892b4f10475) [#1808](https://github.com/keystonejs/keystone/pull/1808) Thanks [@gautamsi](https://github.com/gautamsi)! - upgrade `react-apollo` and replace use of `react-apollo-hooks` with `react-apollo`. `react-apollo` has similar hooks api to `react-apollo-hooks`
+
+* Updated dependencies [[`45fd7ab8`](https://github.com/keystonejs/keystone/commit/45fd7ab899655364d0071c0d276d188378944ff5), [`266544ef`](https://github.com/keystonejs/keystone/commit/266544ef38b38a73644787313d305f6b4927084b), [`8226eb47`](https://github.com/keystonejs/keystone/commit/8226eb4709ea8ad5773c900eaaa96068d3cb6bad), [`b0756c65`](https://github.com/keystonejs/keystone/commit/b0756c65525625919c72364d8cefc32d864c7c0e), [`d9d15958`](https://github.com/keystonejs/keystone/commit/d9d15958f3f632e6c95fdc471b94d6fbc5f0f080), [`d132a3c6`](https://github.com/keystonejs/keystone/commit/d132a3c64aec707b98ed9a9ceffee44a98749b0a), [`ba8aef71`](https://github.com/keystonejs/keystone/commit/ba8aef71d1a04f643fb7f7590d7d6d136b1d4eba), [`5595e4c4`](https://github.com/keystonejs/keystone/commit/5595e4c45c618fa7e13a3d91e3ea3892b4f10475)]:
+  - @keystonejs/keystone@5.1.1
+  - @keystonejs/app-admin-ui@5.0.2
+  - @arch-ui/layout@0.2.5
+  - @arch-ui/typography@0.0.9
+  - @keystonejs/fields@5.1.0
+  - @keystonejs/fields-markdown@5.0.1
+  - @keystonejs/fields-wysiwyg-tinymce@5.0.1
+  - @keystonejs/oembed-adapters@5.0.1
+  - @keystonejs/adapter-mongoose@5.1.1
+
 ## 5.0.0
 
 ### Major Changes
